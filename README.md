@@ -1,6 +1,6 @@
 # Olá, eu sou o David Mimoso! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&lines=Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;Universidade+do+Minho;Apaixonado+por+Software)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=500&lines=Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;Universidade+do+Minho;)
 
 ---
 
