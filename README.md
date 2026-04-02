@@ -25,13 +25,13 @@
 <div align="center">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidMimoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMimoso&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmimoso&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=DavidMimoso&theme=tokyonight&hide_border=false&locale=pt_BR)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=davidmimoso&theme=tokyonight&hide_border=false&locale=pt_BR)
 
 </div>
 
