@@ -1,6 +1,6 @@
 # Olá, eu sou o David Mimoso! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&lines=Estudante+de+Ciencias+da+Computacao;Universidade+do+Minho;Focado+em+Java,+C+e+Haskell)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&lines=Estudante+de+Ciencias+da+Computacao;Universidade+do+Minho;)
 
 ### 🚀 Sobre Mim
 * 🎓 Aluno do 2.º ano de **Ciências da Computação** na **Universidade do Minho**.
